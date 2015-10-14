@@ -1,0 +1,1 @@
+rubyのリフレクション用メソッドである、self.class.nameを利用して自クラス名を取得し、logger.infoメソッドを用いて出力する。
